@@ -1,5 +1,5 @@
 <img width="2000" height="1500" alt="localhost" src="https://github.com/user-attachments/assets/7dc514b2-fca6-4468-8ef4-793a678264be" />
-<img width="2000" height="1500" alt="localhost" src="https://github.com/user-attachments/assets/41db7420-caf0-49f7-80ba-19bcb10fb352" />
+
 ## Kişisel Web Sayfası Vize Ödevi
 
 - Proje Adı: Docker ile Kişisel Web Sayfası Dağıtımı
