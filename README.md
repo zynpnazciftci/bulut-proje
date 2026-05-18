@@ -9,5 +9,6 @@
 Projenin ayağa kaldırılması için sırasıyla aşağıdaki komutlar kullanılmıştır:
 1. İmajı derleme komutu:
 docker build --no-cache -t webproje .
+
 2.Konteyneri çalıştırma komutu:
 docker run -d -p 8080:80 webproje
